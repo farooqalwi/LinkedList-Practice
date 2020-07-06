@@ -1,0 +1,7 @@
+C:\Users\ALWI\Desktop\LinkedList Practice\bin\Debug\LinkedList Practice.exe.config
+C:\Users\ALWI\Desktop\LinkedList Practice\bin\Debug\LinkedList Practice.exe
+C:\Users\ALWI\Desktop\LinkedList Practice\bin\Debug\LinkedList Practice.pdb
+C:\Users\ALWI\Desktop\LinkedList Practice\obj\Debug\LinkedList Practice.csprojAssemblyReference.cache
+C:\Users\ALWI\Desktop\LinkedList Practice\obj\Debug\LinkedList Practice.csproj.CoreCompileInputs.cache
+C:\Users\ALWI\Desktop\LinkedList Practice\obj\Debug\LinkedList Practice.exe
+C:\Users\ALWI\Desktop\LinkedList Practice\obj\Debug\LinkedList Practice.pdb
